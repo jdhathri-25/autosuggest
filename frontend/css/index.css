@@ -17,3 +17,33 @@ h1{
     padding: 10px;
     text-align: center;
 }
+.navbar{
+    border:3px;
+    border-color: black;
+    border-style: solid;
+    padding: 15px;
+    background-color: brown;
+    text-align: center;
+}
+.navbar a{
+    color: aquamarine;
+    padding: 25px;
+    text-decoration: none;
+}
+.navbar a:hover{
+    background-color: rgb(218, 124, 124);
+    color: white;
+}
+body{
+    margin: 0;
+}
+.card{
+    border:2px solid black;
+    width: 300px;
+    text-align: center;
+    margin: 30px auto;
+    padding: 10px;
+}
+.card img{
+    width: 100%;
+}
